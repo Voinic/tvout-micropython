@@ -1,0 +1,8 @@
+{
+    "urls": [
+      ["tvout.py", "github:Voinic/tvout-micropython/tvout.py"]
+    ],
+    "deps": [
+    ],
+    "version": "0.1"
+  }
